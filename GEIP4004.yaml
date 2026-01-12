@@ -1,0 +1,28 @@
+course_name: "新时代中国特色社会主义理论与实践"
+course_code: "GEIP4004"
+notices: ""
+grading:
+  "0000": "出勤(10%) + 论文(20%) + 讨论与展示(20%) + 期末考试(50%)"
+teachers: []
+textbooks:
+  - title: "新时代中国特色社会主义理论与实践"
+    author: "本书编写组"
+    publisher: "高等教育出版社"
+    edition: "2024版"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course: []
+about_exam:
+  - content: |
+      允许携带一张 A4 纸。
+      政治课就一定要注意时效性。一定要结合最新的教材整理 A4 纸，用最新的表述来作答。
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links: []
+misc: []
