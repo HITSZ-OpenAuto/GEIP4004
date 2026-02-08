@@ -1,0 +1,21 @@
+course_name = "新时代中国特色社会主义理论与实践"
+repo_type = "normal"
+course_code = "GEIP4004"
+
+description = "新时代中国特色社会主义理论与实践"
+
+[[sections]]
+title = "教材"
+
+[[sections.items]]
+content = "- **新时代中国特色社会主义理论与实践**（本书编写组 / 高等教育出版社 / 2024版 / textbook）"
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = """
+- 允许携带一张 A4 纸。
+- 政治课就一定要注意时效性。一定要结合最新的教材整理 A4 纸，用最新的表述来作答。
+"""
+author = { name = "", link = "", date = "" }
