@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814992,
+    "hash": "7e9af3893dd9271683cecc41ebd87a1ca7f52d81"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1763219847,
+    "hash": "8a54b6e926ea5311226ea9ae2e418928e76263e2"
+  },
+  "README.md": {
+    "size": 637,
+    "time": 1791961643,
+    "hash": "a83d2e50240ba5cc5ea95828a0356dd65dd9b51e"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1763219847,
+    "hash": "8a54b6e926ea5311226ea9ae2e418928e76263e2"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1763219847,
+    "hash": "8a54b6e926ea5311226ea9ae2e418928e76263e2"
+  },
+  "exams/2025新中特试题回忆.pdf": {
+    "size": 157741,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1763219847,
+    "hash": "8a54b6e926ea5311226ea9ae2e418928e76263e2"
+  },
+  "notes/2024-A4纸1.docx": {
+    "size": 52543,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/2024-新中特小抄竖版(1).pdf": {
+    "size": 1649131,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/2025-中特A4.pdf": {
+    "size": 1127653,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2021-A4纸+选填.pdf": {
+    "size": 935717,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2021-A4纸-2021.11.04.docx": {
+    "size": 84706,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2021-中特究极无敌详细版小抄.pdf": {
+    "size": 672358,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2022-A4纸-(含二十大内容).pdf": {
+    "size": 681441,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2022-A4纸1.pdf": {
+    "size": 2006739,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2022-中特小抄.pdf": {
+    "size": 5399728,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2022-中特整理-打印.pdf": {
+    "size": 936073,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "notes/配2021版教材/2023-xhd-半开卷A4纸.docx": {
+    "size": 68594,
+    "time": 1763222607,
+    "hash": "2b1f9288b3b3bb69e6ad0aa5c3cfb653db9b095e"
+  },
+  "readme.toml": {
+    "size": 629,
+    "time": 1773428222,
+    "hash": "19e63e6801423c8dffbff0438f85ded32c53e6b8"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1763219847,
+    "hash": "8a54b6e926ea5311226ea9ae2e418928e76263e2"
+  }
+}
